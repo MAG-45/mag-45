@@ -8,7 +8,7 @@
 
 ## Réseau / Paypal
 
--Twitter : MrRaphou2
+-Twitter : MrGaming_MAG
 
 -Discord Serveur : Comming Soon
 
@@ -16,10 +16,5 @@
 
 ## Project en cours
 
- -InstaBot 
- 
- -Discord Bot/Serveur 
- 
- -README Profile Github 
-
+ - J'AI PAS LE TEMPS
 
