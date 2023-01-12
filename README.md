@@ -1,12 +1,18 @@
-### Bonjour les gens 👋
 
-## Language utilisé :
+🎮 **Apex, MC, GMOD**  
+✅ **Super-Modo Efasia**  
+🤓 **Bidouilleur, Dev, Windows**  
+🗣️ **FR / EN**  
+⚒️ **Fait des projets**
 
- -Python (https://www.python.org/)
- 
- -Java (https://java.com/fr/)
+### Langage Utilisée
 
-## Project en cours
+- Java  
+- Python  
+- JavaScript  
 
- - Approndis c'est connaisance en Python / C++
 
+#### I'm not a developer, I only do some project and not professional, if you fork my project please mention me in the copyright !   
+
+#### Account in EN / FR, I use the both launguage don't be lost use a translator if u need help   
+#### My Discord if you have a problem : MAG#5045   
