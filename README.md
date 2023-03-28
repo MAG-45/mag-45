@@ -1,6 +1,5 @@
 
 🎮 **Apex, MC, GMOD**  
-✅ **Super-Modo Efasia**  
 🤓 **Bidouilleur, Dev, Windows**  
 🗣️ **FR / EN**  
 ⚒️ **Fait des projets**
