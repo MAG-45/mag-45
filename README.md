@@ -6,6 +6,7 @@
 
 ### Dev language 
 
+<code><img height="30" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" /></code> 
 <code><img alt="js" height="30" src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white" /></code>  
 <code><img height="30" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></code>  
 
