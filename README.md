@@ -4,11 +4,10 @@
 🗣️ **FR / EN**  
 ⚒️ **Fait des projets**
 
-### Langage Utilisée
+### Dev language 
 
-- Java  
-- Python  
-- JavaScript  
+<code><img alt="js" height="30" src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white" /></code>  
+<code><img height="30" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></code>  
 
 
 #### I'm not a developer, I only do some project and not professional, if you fork my project please mention me in the copyright !   
