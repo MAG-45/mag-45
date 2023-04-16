@@ -2,7 +2,7 @@
 
 <h2 align='center'>Project</h2> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=statusbot)](https://github.com/mag3945/statusbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=statusbot)](https://github.com/mag3845/statusbot)
 
 <h2 align='center'>Skills 📚</h2>
 
