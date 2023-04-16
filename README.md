@@ -2,7 +2,7 @@
 
 <h2 align='center'>Project</h2> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=statusbot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=statusbot)](https://github.com/mag3945/statusbot)
 
 <h2 align='center'>Skills 📚</h2>
 
@@ -11,7 +11,7 @@
 
 <h2 align='center'>Stats 📊</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845)](https://github.com/anuraghazra/github-readme-stats)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845'>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845)](https://github.com/mag3845)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845'>
 
 
 <h2 align='center'>Computer and IDE 👨‍💻</h2>
