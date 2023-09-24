@@ -6,7 +6,8 @@
 
 <h2 align='center'>Skills 📚</h2>
 
-<div align='center'><img align='center' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'><img align='center' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'></div>
+<div align='center'><img align='center' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'><img align='center' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'></div>![Static Badge](https://img.shields.io/badge/Java-JAVA?style=for-the-badge&logo=oracle&color=red)
+
 
 
 <h2 align='center'>Stats 📊</h2>
