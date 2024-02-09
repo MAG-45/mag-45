@@ -3,6 +3,7 @@
 <h2 align='center'>Project</h2> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=statusbot)](https://github.com/mag3845/statusbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=website-main)](https://github.com/mag3845/website-main)
 
 <h2 align='center'>Skills 📚</h2>
 
