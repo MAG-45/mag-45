@@ -6,11 +6,11 @@
 
 <h2 align='center'>Skills 📚</h2>
 
-<div align='center'><img align='center' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'><img align='center' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'><img align='center' alt="Static Badge" src="https://img.shields.io/badge/Java-JAVA?style=for-the-badge&logo=oracle&color=red"></div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAG3845)](https://magcloud.fr)
+<div align='center'><img align='center' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'><img align='center' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'><img align='center' alt="Static Badge" src="https://img.shields.io/badge/Java-JAVA?style=for-the-badge&logo=oracle&color=red"></div> [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAG3845)](https://magcloud.fr)
 
 <h2 align='center'>Stats 📊</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845](https://github.com/mag3845)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845'>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845)](https://github.com/mag3845)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845'>
 
 
 <h2 align='center'>Computer and IDE 👨‍💻</h2>
