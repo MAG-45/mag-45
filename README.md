@@ -10,7 +10,7 @@
 
 <h2 align='center'>Stats 📊</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845)](https://github.com/mag3845)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845'>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845&langs_count=5)](https://github.com/mag3845)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845'>
 
 
 <h2 align='center'>Computer and IDE 👨‍💻</h2>
