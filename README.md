@@ -17,7 +17,7 @@
 
 <h2 align='center'>Computer and IDE 👨‍💻</h2>
 
-<div align="center"><img src='https://img.shields.io/badge/hp%20laptop-007DB8?style=for-the-badge&logo=hp&logoColor=white'><img src='https://img.shields.io/badge/Intel%20Pentium_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white'><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"><img src='https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white'><img src="https://img.shields.io/badge/Windows%2010/%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"><img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'><img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4"></div>
+<div align="center"><img src='https://img.shields.io/badge/hp%20laptop-007DB8?style=for-the-badge&logo=hp&logoColor=white'><img src='https://img.shields.io/badge/Intel%20Pentium_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white'><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"><img src='https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white'><img src="https://img.shields.io/badge/windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white"><img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'><img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4"></div>
 
 <h2 align='center'>Social Media 🗣️</h2>
 
