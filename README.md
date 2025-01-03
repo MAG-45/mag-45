@@ -1,9 +1,9 @@
-<a href="https://magcloud.fr"><img src="https://github.com/MAG3845/mag3845/blob/main/header.png"></a>
+<a href="https://magcloud.fr"><img src="https://github.com/mag-45/mag-45/blob/main/header.png"></a>
 
 <h2 align='center'>Project</h2> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=statusbot)](https://github.com/mag3845/statusbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag3845&repo=website-main)](https://github.com/mag3845/website-main)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag-45&repo=statusbot)](https://github.com/mag-45/statusbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag-45&repo=website-main)](https://github.com/mag-45/website-main)
 
 <h2 align='center'>Skills 📚</h2>
 
@@ -12,7 +12,7 @@
 
 <h2 align='center'>Stats 📊</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag3845&langs_count=5)](https://github.com/mag3845)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag3845&langs_count=5'>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag-45&langs_count=5)](https://github.com/mag-45)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag-45&langs_count=5'>
 
 
 <h2 align='center'>Computer and IDE 👨‍💻</h2>
@@ -22,4 +22,4 @@
 <h2 align='center'>Social Media 🗣️</h2>
 
 <div align='center'><a href='https://twitter.com/mag_3945'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a>
-<a href='https://github.com/mag3845'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a></div>
+<a href='https://github.com/mag-45'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a></div>
