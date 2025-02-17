@@ -1,49 +1,47 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h1 align="center">MAG - SysAdmin/DevOps</h1>
-
-> Jeune passionnée par l'informatique, et par de vaste domaine comme le réseau/système ou encore IaC
+<p align="center">Jeune passionnée par l'informatique, et par de vastes domaines comme le réseau/système ou encore IaC</p>
 
 ## Technologies et outils
 
-<div>
-<i style="font-size: 50px" class="devicon-docker-plain colored"></i>
-<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<i style="font-size: 50px" class="devicon-ansible-plain-wordmark"></i>
-<i style="font-size: 50px" class="devicon-python-plain colored"></i>
-<i style="font-size: 50px" class="devicon-bash-plain"></i>
-<i style="font-size: 50px" class="devicon-javascript-plain colored"></i>
-<i style="font-size: 50px" class="devicon-cloudflare-plain colored"></i>
-<i style="font-size: 50px" class="devicon-debian-plain colored"></i>
-<i style="font-size: 50px" class="devicon-traefikproxy-original colored"></i>
-</img height='50px' src='https://img.icons8.com/fluent/512/proxmox.png'>
+<div align="center">
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
+  <img height='50px' src="https://img.icons8.com/fluent/512/proxmox.png" />
 </div>
 
-## Projets 
+## Projets
 
-- [Stagey](https://stagey.fr) - Techniciens Infrastructure IT
-    - Mise en place d'une pipeline de CI/CD
-    - Mise en place de différentes politiques d'optimisations et de sécurité
-    - Mise en place d'un nouveau système de backup
-    - Surveillance des applications et de leur consommation
-    - Misen en place d'outils pour les développeurs
+- **[Stagey](https://stagey.fr) - Techniciens Infrastructure IT**
+  - Mise en place d'une pipeline de CI/CD
+  - Mise en place de différentes politiques d'optimisations et de sécurité
+  - Mise en place d'un nouveau système de backup
+  - Surveillance des applications et de leur consommation
+  - Mise en place d'outils pour les développeurs
 
-- [MAGCloud](https://status.magcloud.eu) - Infrastructure Personel
-    - Système de mise a jour automatique des applications
-    - Mise en place de système de sécurité
-    - Plusieurs services fonctionnant jours et nuit
-    - Système de backups
-    
+- **[MAGCloud](https://status.magcloud.eu) - Infrastructure Personnelle**
+  - Système de mise à jour automatique des applications
+  - Mise en place de systèmes de sécurité
+  - Plusieurs services fonctionnant jour et nuit
+  - Système de backups
+
 ## Mentions spéciales
 
-Jeune lycéens particulièrement intéressé par le monde du SysAdmin et du DevOps. Je cherche chaque jours a m'améliorer de plus en plus dans ce domaine. Je suis ouvert a tout critique sur mes repo !
+Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOps. Je cherche chaque jour à m'améliorer davantage dans ce domaine. Je suis ouvert à toute critique sur mes repo !
 
-## Réseaux 
+## Réseaux
 
-- <i class="devicon-gitlab-plain colored"></i> [Gitlab](https://gitlab.com/MAG45)
-- <i class="devicon-twitter-original"></i> [Twitter](https://x.com/mag__45)
-- [Site Web Personel](https://magcloud.fr)
+- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" /> [Gitlab](https://gitlab.com/MAG45)
+- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /> [Twitter](https://x.com/mag__45)
+- [Site Web Personnel](https://magcloud.fr)
 
-## Statistique
+## Statistiques
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag-45)](https://github.com/anuraghazra/github-readme-stats)
-
