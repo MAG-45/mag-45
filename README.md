@@ -1,25 +1,49 @@
-<a href="https://magcloud.fr"><img src="https://github.com/mag-45/mag-45/blob/main/header.png"></a>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h1 align="center">MAG - SysAdmin/DevOps</h1>
 
-<h2 align='center'>Project</h2> 
+> Jeune passionnée par l'informatique, et par de vaste domaine comme le réseau/système ou encore IaC
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag-45&repo=statusbot)](https://github.com/mag-45/statusbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag-45&repo=website-main)](https://github.com/mag-45/website-main)
+## Technologies et outils
 
-<h2 align='center'>Skills 📚</h2>
-
-<div align='center'><img align='center' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'><img align='center' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'><img align='center' alt="Static Badge" src="https://img.shields.io/badge/Java-JAVA?style=for-the-badge&logo=oracle&color=red"><img align="center"alt="Static Badge" src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=green"><img align="center" alt="Static Badge" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=black">
+<div>
+<i style="font-size: 50px" class="devicon-docker-plain colored"></i>
+<img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<i style="font-size: 50px" class="devicon-ansible-plain-wordmark"></i>
+<i style="font-size: 50px" class="devicon-python-plain colored"></i>
+<i style="font-size: 50px" class="devicon-bash-plain"></i>
+<i style="font-size: 50px" class="devicon-javascript-plain colored"></i>
+<i style="font-size: 50px" class="devicon-cloudflare-plain colored"></i>
+<i style="font-size: 50px" class="devicon-debian-plain colored"></i>
+<i style="font-size: 50px" class="devicon-traefikproxy-original colored"></i>
+</img height='50px' src='https://img.icons8.com/fluent/512/proxmox.png'>
 </div>
 
-<h2 align='center'>Stats 📊</h2>
+## Projets 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag-45&langs_count=5)](https://github.com/mag-45)<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mag-45&langs_count=5'>
+- [Stagey](https://stagey.fr) - Techniciens Infrastructure IT
+    - Mise en place d'une pipeline de CI/CD
+    - Mise en place de différentes politiques d'optimisations et de sécurité
+    - Mise en place d'un nouveau système de backup
+    - Surveillance des applications et de leur consommation
+    - Misen en place d'outils pour les développeurs
 
+- [MAGCloud](https://status.magcloud.eu) - Infrastructure Personel
+    - Système de mise a jour automatique des applications
+    - Mise en place de système de sécurité
+    - Plusieurs services fonctionnant jours et nuit
+    - Système de backups
+    
+## Mentions spéciales
 
-<h2 align='center'>Computer and IDE 👨‍💻</h2>
+Jeune lycéens particulièrement intéressé par le monde du SysAdmin et du DevOps. Je cherche chaque jours a m'améliorer de plus en plus dans ce domaine. Je suis ouvert a tout critique sur mes repo !
 
-<div align="center"><img src='https://img.shields.io/badge/hp%20laptop-007DB8?style=for-the-badge&logo=hp&logoColor=white'><img src='https://img.shields.io/badge/Intel%20Pentium_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white'><img src="https://img.shields.io/badge/fedora-fedora?style=for-the-badge&logo=fedora&color=%2314234f"><img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'></div>
+## Réseaux 
 
-<h2 align='center'>Social Media 🗣️</h2>
+- <i class="devicon-gitlab-plain colored"></i> [Gitlab](https://gitlab.com/MAG45)
+- <i class="devicon-twitter-original"></i> [Twitter](https://x.com/mag__45)
+- [Site Web Personel](https://magcloud.fr)
 
-<div align='center'><a href='https://twitter.com/mag_3945'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'></a>
-<a href='https://github.com/mag-45'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a></div>
+## Statistique
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mag-45)](https://github.com/anuraghazra/github-readme-stats)
+
