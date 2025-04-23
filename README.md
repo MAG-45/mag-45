@@ -35,8 +35,8 @@
   - Plusieurs services fonctionnant jour et nuit
   - Système de backups
 
-- **[EvolutionX](https://evolution-x.org/) - Maintaineurs non officiel pour duchamp**
-  - [XDA Forums](https://xdaforums.com/t/rom-15-0-0_r17-unofficial-evolution-x-10-3-02-22-25.4719891/)
+- **Custom Rom - Maintaineurs non officiel pour duchamp**
+  - [XDA Forums EvolutionX](https://xdaforums.com/t/rom-15-0-0_r17-unofficial-evolution-x-10-3-02-22-25.4719891/)
   - [Discord EvolutionX](https://discord.com/invite/evolution-x)
   - [Canal Telegram Annonce](https://t.me/magcustomrom)
 
