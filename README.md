@@ -56,5 +56,5 @@ Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOp
 
 ## Me Soutenir !
 
-- [BuyMeACoffe](https://buymeacoffee.com/mag_)
+- Demandez moi mon Paypal sur mes différents réseaux sociaux !
 
