@@ -48,7 +48,7 @@ Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOp
 
 - <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" /> [Gitlab](https://gitlab.com/MAG45)
 - <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /> [Twitter](https://x.com/mag__45)
-- [Site Web Personnel](https://magcloud.fr)
+- [Site Web Personnel](https://mag.fr.eu.org)
 
 ## Statistiques
 
