@@ -29,13 +29,13 @@
   - Surveillance des applications et de leur consommation
   - Mise en place d'outils pour les développeurs
 
-- **[MAGCloud](https://status.magcloud.eu) - Infrastructure Personnelle**
+- **[MAG](https://mag.fr.eu.org) - Infrastructure Personnelle**
   - Système de mise à jour automatique des applications
   - Mise en place de systèmes de sécurité
   - Plusieurs services fonctionnant jour et nuit
   - Système de backups
 
-- **Custom Rom - Builder non officiel pour duchamp [EN PAUSE]**
+- **Custom Rom - Builder non officiel pour duchamp [ABANDONNEE]**
   - [XDA Forums EvolutionX](https://xdaforums.com/t/rom-15-0-0_r17-unofficial-evolution-x-10-3-02-22-25.4719891/)
   - [Discord EvolutionX](https://discord.com/invite/evolution-x)
   - [Canal Telegram Annonce](https://t.me/magcustomrom)
@@ -56,5 +56,5 @@ Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOp
 
 ## Me Soutenir !
 
-- Demandez moi mon Paypal sur mes différents réseaux sociaux !
+- Rejoingnez mon réseau sur Linkedin ;)
 
