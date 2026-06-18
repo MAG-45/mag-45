@@ -29,7 +29,7 @@
   - Surveillance des applications et de leur consommation
   - Mise en place d'outils pour les développeurs
 
-- **[MAG](https://mag.fr.eu.org) - Infrastructure Personnelle**
+- **[MAG](https://rvallon.fr) - Infrastructure Personnelle**
   - Système de mise à jour automatique des applications
   - Mise en place de systèmes de sécurité
   - Plusieurs services fonctionnant jour et nuit
@@ -42,7 +42,7 @@
 
 ## Mentions spéciales
 
-Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOps. Je cherche chaque jour à m'améliorer davantage dans ce domaine. Je suis ouvert à toute critique sur mes repo !
+Etudiant en BUT Réseaux & Télécoms, particulièrement intéressé par le monde du SysAdmin et du DevOps. Je cherche chaque jour à m'améliorer davantage dans ce domaine. Je suis ouvert à toute critique sur mes repo !
 
 ## Réseaux
 
