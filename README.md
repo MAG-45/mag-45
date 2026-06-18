@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h1 align="center">MAG - SysAdmin/DevOps</h1>
-<p align="center">Jeune passionnée par l'informatique, et par de vastes domaines comme le réseau/système ou encore IaC</p>
+<p align="center">Etudiant en BUT Réseaux & Télécoms, passionnée par l'informatique, et par de vastes domaines comme le réseau/système ou encore IaC</p>
 
 ## Technologies et outils
 
